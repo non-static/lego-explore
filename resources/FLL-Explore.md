@@ -5,5 +5,9 @@ Some good readings:
 * [FIRST LEGO League Explore: How It Works (PDF)](https://www.firstinspires.org/sites/default/files/uploads/resource_library/first-lego-league-explore-how-it-works.pdf)
 * [FIRST LEGO League Explore Mini Brochure (PDF)](https://www.firstinspires.org/sites/default/files/uploads/resource_library/first-lego-league-explore-mini-fe003.pdf)
 
-YouTube Channels:
+YouTube:
 * [Official Channel](https://www.youtube.com/c/FIRSTLEGOLeagueofficial)
+* [Getting Started with FIRST LEGO League Explore](https://www.youtube.com/watch?v=pUONOiVSqTs)
+* [Getting Started with FIRST LEGO League Explore - the Festival experience](https://www.youtube.com/watch?v=ViOtnNCcUjk)
+* [FIRST LEGO LEAGUE EXPLORE TEACHER INFORMATION SESSION (Canada 2020)](https://www.youtube.com/watch?v=OZXwWoLxiC4)
+* [FLL Explore: Building & Programming with WeDo 2.0](https://www.youtube.com/watch?v=_JRmOPzfO_U)
