@@ -10,4 +10,7 @@ YouTube:
 * [Getting Started with FIRST LEGO League Explore](https://www.youtube.com/watch?v=pUONOiVSqTs)
 * [Getting Started with FIRST LEGO League Explore - the Festival experience](https://www.youtube.com/watch?v=ViOtnNCcUjk)
 * [FIRST LEGO LEAGUE EXPLORE TEACHER INFORMATION SESSION (Canada 2020)](https://www.youtube.com/watch?v=OZXwWoLxiC4)
+
+Lessons:
+* [LEGO Offical WeDo 2.0 Lessons](https://education.lego.com/en-us/lessons?products=WeDo+2.0+Core+Set)
 * [FLL Explore: Building & Programming with WeDo 2.0](https://www.youtube.com/watch?v=_JRmOPzfO_U)
