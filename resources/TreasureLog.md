@@ -5,3 +5,5 @@
 7/19/2021,  Leon Zh,  purchase two toolkits: $489.95,                            Balance: $ 110.05
 
 7/19/2021,  Leon Zh,  reimbursement Klein's team register fee. -$118.82,         Balance: $ -8.77
+
+9/19/2021,  Leon Zh,  purchase one toolkits from Amazon: $383.14,                Balance: $ -391.91
