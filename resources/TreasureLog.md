@@ -1,3 +1,5 @@
+https://1drv.ms/x/s!AueDsICcHN2dgtFAw29LWCcx8YYhqA?e=BxKzo6
+
 7/17/2021,  Klein Hu, payed the team register fee: $118.82,                      Balance: $ 0
 
 7/19/2021,  Leon Zh,  recieve team fee from all memeber: $600,                   Balance: $ 600
